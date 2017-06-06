@@ -6,5 +6,5 @@ This is a PyTorch implementation of DQN from [Human-level control through deep r
 
 ![Pong-score](tmp/Score.png)
 
-![Pong-Qvalue](tmp/Average Action Value.png)
+![Pong-Qvalue](tmp/Average-Action-Value.png.png)
 
